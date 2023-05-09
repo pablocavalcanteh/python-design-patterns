@@ -62,8 +62,10 @@ if __name__ == "__main__":
 
     post = Post('My Post 001', 'This is an post very cool.', 'Pablo Cavalcante', '09-05-2023')
     print(post)
+    print(f'Object ID: {id(post)}')
     print('\n')
     post_copy = post.clone()
     print(post_copy)
+    print(f'Object ID: {id(post_copy)}')
     
     
