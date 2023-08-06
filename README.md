@@ -38,6 +38,10 @@ Nowadays, there are 23 design patterns distributed categorically in:
 
   Structural Design Patterns are concerned with way both classes and objects are composed to build larger structures.
 
-- **Behavioral Patterns**  
+  - **Adapter**
+    
+    Converts the class' interface to another interface expected by clients. The adapter allows certain classes to work together that would otherwise be impossible because of their incompatible interfaces.
+
+- **Behavioral Patterns**:
 
   Bahavioral Design Patterns are concerned with algorithms and assignment of responsibilities between objects. Behavioral patterns don't only describe of objects or    n classes, but also the patterns of communication between them.
