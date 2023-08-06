@@ -44,6 +44,8 @@ Nowadays, there are 23 design patterns distributed categorically in:
 
   - **Bridge**
     
+    Provides a proxy object for another object to control access to it.
+    
   - **Façade**
     
     Provides a unified interface to a set of interfaces in a subsystem. The Façade defines a higher-level interface that makes the subsystem easier to use.
