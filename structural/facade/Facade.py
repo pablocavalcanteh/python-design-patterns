@@ -21,7 +21,7 @@ class Buffet:
     def __init__(self) -> None:
         pass
 
-    def serve(self):
+    def serve(self) -> None:
         pass
 
 class Floriculture:
@@ -29,10 +29,10 @@ class Floriculture:
     def __init__(self) -> None:
         pass
 
-    def deliver_flowers(self):
+    def deliver_flowers(self) -> None:
         pass
 
-    def arrange_flowers(self):
+    def arrange_flowers(self) -> None:
         pass
 
 class EventManagement:
@@ -53,3 +53,8 @@ class EventManagement:
 
         self.floriculture.deliver_flowers()
         self.floriculture.arrange_flowers()
+
+if __name__ == "__main__":
+
+    eventManagement = EventManagement()
+    eventManagement.organize()
