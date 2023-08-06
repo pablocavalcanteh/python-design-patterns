@@ -1,4 +1,4 @@
-# Design Pattern in Python
+# Design Patterns in Python
 
 Design Patterns are reusable and customizable solutions to recurring problems in software development.
 Overall, a design pattern is made up of four elements:
