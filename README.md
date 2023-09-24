@@ -53,3 +53,11 @@ Nowadays, there are 23 design patterns distributed categorically in:
 - **Behavioral Patterns**:
 
   Bahavioral Design Patterns are concerned with algorithms and assignment of responsibilities between objects. Behavioral patterns don't only describe of objects or    n classes, but also the patterns of communication between them.
+
+  - **Observer**
+
+    It is a behavioral design pattern that allows you to define a subscription mechanism to notify multiple objects about any events occurring on the object they are observing.
+
+  - **Command**
+
+    It is a behavioral design pattern that transforms a request into an independent object that contains all the information about the request. This transformation allows you to parameterize methods with different requests, delay or queue the execution of a request, and support undoable operations.
