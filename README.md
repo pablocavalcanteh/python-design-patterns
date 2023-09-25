@@ -61,3 +61,15 @@ Nowadays, there are 23 design patterns distributed categorically in:
   - **Command**
 
     It is a behavioral design pattern that transforms a request into an independent object that contains all the information about the request. This transformation allows you to parameterize methods with different requests, delay or queue the execution of a request, and support undoable operations.
+
+ - **Template Method**
+
+    Defines the skeleton of an algorithm in one operation, postponing the definition of some steps for subclasses. The Template Method allows subclasses to redefine certain steps of an algorithm without changing its structure.
+
+
+ - **State**
+
+    Allows an object to change its behavior when its internal state changes. The object will appear to have changed its class.
+
+  
+    
