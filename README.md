@@ -24,7 +24,7 @@ Nowadays, there are 23 design patterns distributed categorically in:
 
   - **Factory Method**:
 
-    Define uma interface para criar um objeto, mas permite que as subclasses decidam quais classes devem ser instanciadas.
+    Defines an interface for creating an object, but allows subclasses to decide which classes to instantiate.
 
   - **Prototype**:
 
